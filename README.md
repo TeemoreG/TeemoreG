@@ -33,7 +33,7 @@ I help businesses and individuals build secure, scalable, and automated solution
 
 ### 🧰 Tech Stack & Tools
 ![Networking](https://img.shields.io/badge/Networking-Cisco-blue)
-![Automation](https://img.shields.io/badge/Automation-Make.com-orange)
+![Automation](https://img.shields.io/badge/Automation-Make.com-orange)![Automation](https://img.shields.io/badge/Automation-n8n-orange)
 ![Web](https://img.shields.io/badge/Web-WordPress-green)
 ![CRM](https://img.shields.io/badge/CRM-MailerLite-lightgrey)
 ![Cloud](https://img.shields.io/badge/Cloud-Google%20Workspace-lightblue)
