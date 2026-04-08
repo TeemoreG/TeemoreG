@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Timothy Njenga Karanja**
+# Hi, I'm **Timothy Njenga Karanja**
 
 💻 **Network Specialist | IT Graduate | Web & Automation Developer**
 
