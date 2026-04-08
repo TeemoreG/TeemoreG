@@ -31,6 +31,20 @@ I help businesses and AI teams build accurate datasets, secure networks, and aut
 
 ---
 
+### 📁 My Projects & Published Websites
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Radiance Skin Center** | Dermatology clinic website with WhatsApp booking, Google Reviews, before/after gallery, and 20+ services | [drgichinamukuria.com](https://drgichinamukuria.com) |
+| **Royal Hope Home Based Care** | Home-based healthcare services website | [royalhopecare.co.ke](https://royalhopecare.co.ke) |
+| **SmartOption Media** | Digital agency website showcasing automation and web services | [smartoptionmedia.com](https://smartoptionmedia.com) |
+| **AI Image Preference Annotation** | Current iMerit project – labeling web-based datasets for AI preference models | *(Private - NDA)* |
+| **Automated Workflow Systems** | n8n and Make.com workflows for data extraction, validation, and reporting | *(Demo available on request)* |
+| **Web Automation Scripts** | Python/JavaScript scripts for data extraction and API integration | [GitHub Repos](https://github.com/TeemoreG) |
+| **Learning Management System** | Custom e-learning platform with automated enrollment and payment tracking | *(Demo available on request)* |
+
+---
+
 ### 🎓 Education & Certifications
 
 - 🎓 **BSc. Information Technology – Karatina University** *(Second Class Upper Division, 2025)*
