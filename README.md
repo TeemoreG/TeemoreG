@@ -1,13 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=800000&center=true&vCenter=true&width=500&lines=HI%2C+I'M+TIMOTHY+NJENGA+KARANJA;FULL-STACK+DEVELOPER;AI+SPECIALIST;AUTOMATION+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=800000&center=true&vCenter=true&width=600&lines=HI%2C+I'M+TIMOTHY+NJENGA+KARANJA;FULL-STACK+DEVELOPER;AI+SPECIALIST;AUTOMATION+ENGINEER;NETWORK+INFRASTRUCTURE+EXPERT" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20%26%20Available-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-orange?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/IT_Graduate-800000?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Developer-1572B6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Developer-FF6B00?style=for-the-badge&logo=automation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Specialist-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active_%26_Available-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C_Kenya-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Fluent-success?style=for-the-badge" />
 </div>
 
 <br/>
@@ -16,9 +26,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **PROFESSIONAL SUMMARY**
 
-> Full-Stack Developer | AI Annotation Specialist | Network Infrastructure | Automation Engineer
-
-IT professional with expertise in full-stack web development, AI data annotation, network systems, and business process automation. Building scalable digital solutions for fintech, e-commerce, and enterprise environments.
+IT professional with expertise in full-stack web development, AI data annotation, network systems, and business process automation. Building scalable digital solutions for fintech, e-commerce, and enterprise environments. Fluent in English with a strong background in network infrastructure and web development.
 
 ---
 
@@ -78,46 +86,48 @@ IT professional with expertise in full-stack web development, AI data annotation
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Evopay-0052CC?style=for-the-badge&logo=paypal&logoColor=white" />
-        <br/>
-        <strong>Full-Stack Developer & Automation Consultant</strong>
-        <br/>
-        <em>2026 – Present</em>
-        <br/>
-        <sub>Building fintech solutions with integrated payment processing</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/iMerit-008000?style=for-the-badge&logo=ai&logoColor=white" />
-        <br/>
-        <strong>AI Annotator</strong>
-        <br/>
-        <em>2026</em>
-        <br/>
-        <sub>Annotating web-based datasets for AI and LLM training</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SmartOption_Media-FF6B00?style=for-the-badge&logo=wordpress&logoColor=white" />
-        <br/>
-        <strong>Web & Digital Systems Designer</strong>
-        <br/>
-        <sub>Developing client websites and automated workflows</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Elite_Tutors_Hub-4A90D9?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-        <br/>
-        <strong>ICT & E-Learning Support</strong>
-        <br/>
-        <sub>Managing online learning platforms and data systems</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏢 Full-Stack Developer & Automation Consultant</h3>
+      <p><strong>Evopay</strong> <em>(2026 – Present)</em></p>
+      <ul>
+        <li>Building fintech solutions with integrated payment processing</li>
+        <li>Automating financial workflows and payment systems</li>
+        <li>Developing scalable digital solutions for financial services</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Annotator</h3>
+      <p><strong>iMerit Technologies</strong> <em>(2026)</em></p>
+      <ul>
+        <li>Annotating web-based datasets for AI and LLM training</li>
+        <li>Maintaining 95%+ accuracy in image preference annotation</li>
+        <li>Adhering to strict quality standards and guidelines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Web & Digital Systems Designer</h3>
+      <p><strong>SmartOption Media</strong></p>
+      <ul>
+        <li>Developing client websites and digital solutions</li>
+        <li>Implementing automated workflows for businesses</li>
+        <li>Managing international client projects</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📚 ICT & E-Learning Support</h3>
+      <p><strong>Elite Tutors Hub</strong></p>
+      <ul>
+        <li>Managing online learning platforms</li>
+        <li>Supporting student data systems</li>
+        <li>Maintaining communication infrastructure</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -133,23 +143,28 @@ IT professional with expertise in full-stack web development, AI data annotation
   </tr>
   <tr>
     <td><b>🍾 LiquorBelle</b></td>
-    <td>Full-featured alcohol delivery platform with M-PESA integration</td>
+    <td>Alcohol delivery platform with M-PESA integration</td>
     <td><img src="https://img.shields.io/badge/HTML-CSS-JS_PHP-red?style=flat-square" /></td>
   </tr>
   <tr>
     <td><b>🏥 Salaton Pharmacy</b></td>
-    <td>Pharmacy management system with inventory tracking</td>
+    <td>Pharmacy management with inventory tracking</td>
     <td><img src="https://img.shields.io/badge/PHP-MySQL-blue?style=flat-square" /></td>
   </tr>
   <tr>
     <td><b>🏠 Royal Hope Healthcare</b></td>
-    <td>Home-based healthcare services platform</td>
+    <td>Home-based healthcare platform</td>
     <td><img src="https://img.shields.io/badge/HTML-CSS-JS-green?style=flat-square" /></td>
   </tr>
   <tr>
     <td><b>🍽️ JM Grill Point</b></td>
     <td>Restaurant website with online ordering</td>
     <td><img src="https://img.shields.io/badge/HTML-CSS-JS-orange?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><b>✨ Nuru Sweet Bitez</b></td>
+    <td>Online bakery & confectionery store</td>
+    <td><img src="https://img.shields.io/badge/HTML-CSS-JS-purple?style=flat-square" /></td>
   </tr>
 </table>
 
@@ -159,36 +174,25 @@ IT professional with expertise in full-stack web development, AI data annotation
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Karatina_University-800000?style=for-the-badge&logo=university&logoColor=white" />
-        <br/>
-        <strong>BSc. Information Technology</strong>
-        <br/>
-        2025 | Second Class Upper Division
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-        <br/>
-        <strong>Cybersecurity Essentials</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-        <br/>
-        <strong>Administrator Certification</strong>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/iMerit-008000?style=for-the-badge&logo=ai&logoColor=white" />
-        <br/>
-        <strong>AI Data Annotation</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li><strong>BSc. Information Technology</strong><br/>Karatina University (2025)<br/>Second Class Upper Division</li>
+        <li><strong>Diploma in IT (Networking)</strong><br/>Karatina University (2021)</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🏅 Certifications</h3>
+      <ul>
+        <li><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> Cybersecurity Essentials</li>
+        <li><img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" /> Administrator Certification</li>
+        <li><img src="https://img.shields.io/badge/iMerit-008000?style=flat-square&logo=ai&logoColor=white" /> AI Data Annotation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -265,6 +269,12 @@ IT professional with expertise in full-stack web development, AI data annotation
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeemoreG&theme=radical&hide_border=true&bg_color=0d1117" width="96%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeemoreG&theme=radical&bg_color=0d1117&hide_border=true" width="96%" />
+</div>
+
 ---
 
 ## 📫 **CONNECT WITH ME**
@@ -330,10 +340,12 @@ IT professional with expertise in full-stack web development, AI data annotation
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TeemoreG&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/TeemoreG?style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/TeemoreG?style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=TeemoreG&label=PROFILE%20VIEWS&color=800000&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/TeemoreG?style=for-the-badge&color=800000" />
+  <img src="https://img.shields.io/github/stars/TeemoreG?style=for-the-badge&color=800000" />
 </div>
 
 <br/>
