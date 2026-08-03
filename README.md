@@ -1,97 +1,101 @@
-# Hi, I'm **Timothy Njenga Karanja**
+Hi, I'm Timothy Njenga Karanja
+Full-Stack Developer | AI Annotation Specialist | Network Infrastructure | Automation Engineer
 
-💻 **AI Annotator | Network Specialist | Web & Automation Developer**
+IT professional with expertise in full-stack web development, AI data annotation, network systems, and business process automation. Building scalable digital solutions for fintech, e-commerce, and enterprise environments.
 
-I'm a results-driven IT professional with experience in **AI data annotation, network infrastructure, web development, and digital automation systems**.  
-I help businesses and AI teams build accurate datasets, secure networks, and automated workflows.
+Technical Expertise
+Full-Stack Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+API Integration • Custom E-Commerce • Payment Systems (M-PESA, Stripe) • Database Architecture
 
----
+AI & Data Annotation
+<img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+LLM Training Datasets • Image Preference Annotation • Quality Assurance • Prompt Engineering • Guideline Adherence
 
-### 🧠 What I Do
+Network Infrastructure
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+LAN/WAN Configuration • Firewall Management • VPN Deployment • Security Protocols • Troubleshooting
 
-- 🤖 **AI & Data Annotation:** Web-based dataset labeling for LLMs, image preference annotation, prompt engineering, guideline adherence, quality assurance
-- 🖧 **Networking & IT Support:** LAN/WAN setup, firewall configuration, VPN deployment, troubleshooting, and user training
-- ⚙️ **Automation & Systems:** n8n, Make.com, Zapier, API integration, CRM setup, AI content workflows, digital process automation
-- 🌐 **Web Development:** WordPress design, hosting, optimization, and custom scripts (Python/JavaScript)
-- 🧩 **Cybersecurity & Data Management:** Security best practices, backups, access control management
-- 💬 **Languages:** Fluent in English and Swahili
+Automation & Systems
+<img src="https://img.shields.io/badge/n8n-0D6CFF?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white" alt="Make" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+CRM Integration • AI Workflows • Data Extraction • Process Optimization
 
----
+E-Commerce Solutions
+Custom Platforms • Inventory Management • Real-time Tracking • Payment Integration • Delivery Logistics
 
-### 🏢 Current Roles
+Professional Experience
+Full-Stack Developer & Automation Consultant — Evopay (2026 – Present)
+Building fintech solutions with integrated payment processing and automated financial workflows.
 
-- **AI Annotator – iMerit Technologies** *(2026 – Present)*  
-  Annotating web-based datasets for AI and LLM training. Current project ends in ~2 weeks.
-  
-- **Web & Digital Systems Designer – SmartOption Media**  
-  Building client websites and automating digital workflows for businesses in Kenya, the UK, and globally.
+AI Annotator — iMerit Technologies (2026)
+Annotating web-based datasets for AI and LLM training with high accuracy and strict quality standards.
 
-- **ICT & E-Learning Support Assistant – Elite Tutors Hub**  
-  Managing online learning systems, student data, and communication infrastructure.
+Web & Digital Systems Designer — SmartOption Media
+Developing client websites and implementing automated digital workflows for businesses in Kenya and international markets.
 
----
+ICT & E-Learning Support — Elite Tutors Hub
+Managing online learning platforms, student data systems, and communication infrastructure.
 
-### 📁 My Projects & Published Websites
+Selected Projects
+Project	Description	Stack
+LiquorBelle	Full-featured alcohol delivery platform with M-PESA integration, cart system, and real-time tracking	HTML, CSS, JS, PHP
+Salaton Pharmacy	Pharmacy management system with inventory tracking and prescription management	PHP, MySQL
+Royal Hope Healthcare	Home-based healthcare services platform with booking system	HTML, CSS, JS
+JM Grill Point	Restaurant website with online ordering functionality	HTML, CSS, JS
+Nuru Sweet Bitez	Online bakery and confectionery store	HTML, CSS, JS
+Education & Certifications
+BSc. Information Technology — Karatina University (2025) • Second Class Upper Division
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Radiance Skin Center** | Dermatology clinic website with WhatsApp booking, Google Reviews, before/after gallery, and 20+ services | [drgichinamukuria.com](https://drgichinamukuria.com) |
-| **Royal Hope Home Based Care** | Home-based healthcare services website | [royalhopecare.co.ke](https://royalhopecare.co.ke) |
-| **SmartOption Media** | Digital agency website showcasing automation and web services | [smartoptionmedia.com](https://smartoptionmedia.com) |
-| **AI Image Preference Annotation** | Current iMerit project – labeling web-based datasets for AI preference models | *(Private - NDA)* |
-| **Automated Workflow Systems** | n8n and Make.com workflows for data extraction, validation, and reporting | *(Demo available on request)* |
-| **Web Automation Scripts** | Python/JavaScript scripts for data extraction and API integration | [GitHub Repos](https://github.com/TeemoreG) |
-| **Learning Management System** | Custom e-learning platform with automated enrollment and payment tracking | *(Demo available on request)* |
+Diploma in IT (Networking) — Karatina University (2021)
 
----
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> Cybersecurity Essentials
 
-### 🎓 Education & Certifications
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> Administrator Certification
 
-- 🎓 **BSc. Information Technology – Karatina University** *(Second Class Upper Division, 2025)*
-- 💻 **Diploma in Information Technology (Networking)** – Karatina University *(2021)*
-- 🏅 **Certifications:** Cisco Cybersecurity Essentials • Google Workspace Administrator • AI Data Annotation (iMerit)
+AI Data Annotation — iMerit Technologies
 
----
+Technical Stack
+Languages
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
-### 🧰 Tech Stack & Tools
+Databases
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 
-![AI Annotation](https://img.shields.io/badge/AI_Annotation-iMerit-blue)
-![Networking](https://img.shields.io/badge/Networking-Cisco-blue)
-![Automation](https://img.shields.io/badge/Automation-n8n-orange)
-![Automation](https://img.shields.io/badge/Automation-Make.com-orange)
-![Web](https://img.shields.io/badge/Web-WordPress-green)
-![CRM](https://img.shields.io/badge/CRM-MailerLite-lightgrey)
-![Cloud](https://img.shields.io/badge/Cloud-Google%20Workspace-lightblue)
-![AI Tools](https://img.shields.io/badge/AI-ChatGPT-yellow)
-![Programming](https://img.shields.io/badge/Code-Python-brightgreen)
-![Programming](https://img.shields.io/badge/Code-JavaScript-yellow)
+Automation
+<img src="https://img.shields.io/badge/n8n-0D6CFF?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white" alt="Make" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
 
----
+DevOps & Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
 
-### 🏆 Professional Highlights
+Networking
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> LAN/WAN • VPN • Firewall Management
 
-- Annotated thousands of web-based data points for AI preference models with high accuracy
-- Configured secure LAN/WAN infrastructures for educational and business networks
-- Automated marketing and CRM workflows to improve client response rates by 40%
-- Developed responsive, SEO-optimized websites for healthcare and business clients
-- Supported e-learning platforms for students across multiple time zones
+Professional Achievements
+Developed complete e-commerce platform with integrated payment processing
 
----
+Annotated 10,000+ data points for AI training with 95%+ accuracy
 
-### 🌍 Find Me Online
+Configured secure network infrastructures for educational institutions
 
-- 🌐 [SmartOption Media](https://smartoptionmedia.com)
-- 💼 [LinkedIn](https://linkedin.com/in/timothy-karanja-65737b277)
-- 🐙 [GitHub](https://github.com/TeemoreG)
-- 📨 **timblax0@gmail.com**
+Automated workflows increasing client response efficiency by 40%
 
----
+Built 25+ responsive, SEO-optimized websites across multiple industries
 
-### 📈 GitHub Stats
+Current Focus
+Advancing full-stack development for e-commerce and fintech
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeemoreG&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeemoreG&layout=compact)
+Building intelligent automation workflows with n8n
 
----
+Contributing to AI training datasets through precision annotation
 
-> 🧩 *"Building smart digital systems that connect people, automate work, and drive business growth."*
+Developing scalable web applications with modern architectures
+
+Connect
+Email: timblax0@gmail.com
+Website: smartoptionmedia.com
+LinkedIn: in/timothy-karanja
+GitHub: github.com/TeemoreG
+
+Building digital systems that connect people, automate workflows, and drive business growth.
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TeemoreG&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeemoreG&layout=compact&theme=radical" alt="Top Languages" /> </div>
