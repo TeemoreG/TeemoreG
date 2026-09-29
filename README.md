@@ -84,6 +84,57 @@ Online learning platforms, student data systems, comms infrastructure.
 
 ---
 
+### What I'm Working On
+
+- **KRA eTIMS integrations** — building POS systems that sign every sale in real time through the KRA VSCU JAR. Handling offline queues, fiscal receipt generation, and the strict field rules KRA enforces.
+- **Payment gateways** — M-Pesa Daraja integrations across two live products. Dynamic QR, STK Push, C2B callbacks, callback validation.
+- **Multi-tenant business tools** — small systems that let one codebase serve many shops with isolated data and shared config.
+- **Automation flows** — wiring business processes through n8n and Make — invoice generation, customer notifications, reporting.
+
+---
+
+### How I Work
+
+- **Ship small, ship often.** Get a working slice in front of the user before building the next layer.
+- **Local-first.** Systems that work offline and sync when they can beat systems that depend on the cloud for every action.
+- **Readable over clever.** Code someone else can pick up in a week beats code that saves 10 lines today.
+- **Log everything.** If it isn't logged, it didn't happen — especially in payments and compliance work.
+
+---
+
+### Skills Deep Dive
+
+**Payments**
+- M-Pesa Daraja: OAuth, STK Push, C2B registration, Dynamic QR, callbacks
+- Payment session lifecycle: pending → processing → completed / failed / expired
+- Reconciliation and retry logic for intermittent network failures
+
+**KRA eTIMS**
+- VSCU JAR integration via HTTP proxy
+- Item catalog sync, classification codes, unit codes, tax types
+- Fiscal receipt signing: `rcptSign`, `intrlData`, `rcptNo`, `sdcId`, `mrcNo`
+- KRA error codes: 000, 001, 899, 910 — and what causes each
+- Offline sync queue with idempotent retries
+
+**Frontend**
+- React 18 with hooks, context, custom state management
+- Tailwind for responsive layouts and design systems
+- Mobile-first POS interfaces for 5" Android terminals
+- Recharts for dashboards, jsPDF for reports
+
+**Backend**
+- REST APIs in Express 5
+- SQLite for local-first apps, PostgreSQL for hosted
+- Sync queue architecture with retry and backoff
+- Request/response logging and error handling
+
+**Networking**
+- LAN/WAN setup and troubleshooting
+- Firewall rules and VPN configuration
+- Cloudflare tunnels for exposing local services
+
+---
+
 ### Education
 
 - **BSc. Information Technology** — Karatina University (2025), Second Class Upper Division
@@ -94,6 +145,24 @@ Online learning platforms, student data systems, comms infrastructure.
 - Cisco — Cybersecurity Essentials
 - Google Workspace — Administrator
 - iMerit — AI Data Annotation
+
+---
+
+### Outside the Code
+
+- Interested in how small businesses in Kenya adopt digital tools, and what actually stops them
+- Follow KRA's eTIMS policy changes closely — compliance is a moving target
+- Learn by building — most of what I know came from shipping things that broke
+
+---
+
+### Get in Touch
+
+Best way is email or WhatsApp. I reply to both.
+
+- **Email:** [timblax0@gmail.com](mailto:timblax0@gmail.com)
+- **WhatsApp:** [+254 748 894 443](https://wa.me/254748894443)
+- **LinkedIn:** [timothy-karanja-65737b277](https://linkedin.com/in/timothy-karanja-65737b277)
 
 ---
 
