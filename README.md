@@ -160,8 +160,8 @@ Online learning platforms, student data systems, comms infrastructure.
 
 Best way is email or WhatsApp. I reply to both.
 
-- **Email:** [timblax0@gmail.com](mailto:timblax0@gmail.com)
-- **WhatsApp:** [+254 748 894 443](https://wa.me/254748894443)
+- **Email:** [timothykaranja2002@gmail.com](mailto:timothykaranja2002@gmail.com)
+- **WhatsApp:** [+254 740940395](https://wa.me/254740940395)
 - **LinkedIn:** [timothy-karanja-65737b277](https://linkedin.com/in/timothy-karanja-65737b277)
 
 ---
