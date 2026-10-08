@@ -29,33 +29,35 @@ Currently at **Evopay** — fintech solutions with M-Pesa and KRA integrations.
 
 ### What I Work With
 
-**Frontend**
+**Frontend**  
 HTML · CSS · JavaScript · React · Tailwind
 
-**Backend**
-Node.js · Express · PHP · Python
+**Backend**  
+Node.js · Express · PHP · Laravel · Python
 
-**Databases**
+**Databases**  
 PostgreSQL · MySQL · SQLite · MongoDB
 
-**Payments & Compliance**
+**Payments & Compliance**  
 M-Pesa Daraja · KRA eTIMS / VSCU · Dynamic QR · STK Push
 
-**Automation**
+**Automation**  
 n8n · Make · Zapier
 
-**Networking**
+**Networking**  
 Cisco · LAN/WAN · VPN · Firewall
 
-**Tools**
-Git · VS Code · Cloudflare · WordPress
+**Tools**  
+Git · VS Code · Cloudflare · WordPress · Vite
 
 ---
 
 ### Selected Work
 
 | Project | What it does |
-|---|---|
+| ------------------------- | ------------------------------------------------------------ |
+| **[Sirleaf Tours & Safaris](https://sirleaftours.com)** | Full tours & travel agency site — safaris, coastal trips, airport transfers, package booking & enquiry system (Laravel + Tailwind + Alpine.js) |
+| **Decent Caterers** | Professional catering services website — menus, event packages, enquiry & booking flows |
 | **Evopay VSCU Cashier** | KRA eTIMS compliant POS with fiscal receipt signing |
 | **Evopay Car Wash POS** | Car wash checkout with M-Pesa QR, STK Push, thermal receipts |
 | **LiquorBelle** | Alcohol delivery platform with M-Pesa integration |
@@ -88,6 +90,7 @@ Online learning platforms, student data systems, comms infrastructure.
 
 - **KRA eTIMS integrations** — building POS systems that sign every sale in real time through the KRA VSCU JAR. Handling offline queues, fiscal receipt generation, and the strict field rules KRA enforces.
 - **Payment gateways** — M-Pesa Daraja integrations across two live products. Dynamic QR, STK Push, C2B callbacks, callback validation.
+- **Client websites** — Sirleaf Tours & Safaris (live demo) and Decent Caterers — clean, conversion-focused sites with booking/enquiry systems.
 - **Multi-tenant business tools** — small systems that let one codebase serve many shops with isolated data and shared config.
 - **Automation flows** — wiring business processes through n8n and Make — invoice generation, customer notifications, reporting.
 
@@ -104,55 +107,56 @@ Online learning platforms, student data systems, comms infrastructure.
 
 ### Skills Deep Dive
 
-**Payments**
-- M-Pesa Daraja: OAuth, STK Push, C2B registration, Dynamic QR, callbacks
-- Payment session lifecycle: pending → processing → completed / failed / expired
-- Reconciliation and retry logic for intermittent network failures
+**Payments**  
+- M-Pesa Daraja: OAuth, STK Push, C2B registration, Dynamic QR, callbacks  
+- Payment session lifecycle: pending → processing → completed / failed / expired  
+- Reconciliation and retry logic for intermittent network failures  
 
-**KRA eTIMS**
-- VSCU JAR integration via HTTP proxy
-- Item catalog sync, classification codes, unit codes, tax types
-- Fiscal receipt signing: `rcptSign`, `intrlData`, `rcptNo`, `sdcId`, `mrcNo`
-- KRA error codes: 000, 001, 899, 910 — and what causes each
-- Offline sync queue with idempotent retries
+**KRA eTIMS**  
+- VSCU JAR integration via HTTP proxy  
+- Item catalog sync, classification codes, unit codes, tax types  
+- Fiscal receipt signing: `rcptSign`, `intrlData`, `rcptNo`, `sdcId`, `mrcNo`  
+- KRA error codes: 000, 001, 899, 910 — and what causes each  
+- Offline sync queue with idempotent retries  
 
-**Frontend**
-- React 18 with hooks, context, custom state management
-- Tailwind for responsive layouts and design systems
-- Mobile-first POS interfaces for 5" Android terminals
-- Recharts for dashboards, jsPDF for reports
+**Frontend**  
+- React 18 with hooks, context, custom state management  
+- Tailwind for responsive layouts and design systems  
+- Mobile-first POS interfaces for 5" Android terminals  
+- Blade + Alpine.js for Laravel projects  
+- Recharts for dashboards, jsPDF for reports  
 
-**Backend**
-- REST APIs in Express 5
-- SQLite for local-first apps, PostgreSQL for hosted
-- Sync queue architecture with retry and backoff
-- Request/response logging and error handling
+**Backend**  
+- REST APIs in Express 5 and Laravel  
+- SQLite for local-first apps, PostgreSQL for hosted  
+- Sync queue architecture with retry and backoff  
+- Request/response logging and error handling  
 
-**Networking**
-- LAN/WAN setup and troubleshooting
-- Firewall rules and VPN configuration
-- Cloudflare tunnels for exposing local services
+**Networking**  
+- LAN/WAN setup and troubleshooting  
+- Firewall rules and VPN configuration  
+- Cloudflare tunnels for exposing local services  
 
 ---
 
 ### Education
 
-- **BSc. Information Technology** — Karatina University (2025), Second Class Upper Division
-- **Diploma in IT (Networking)** — Karatina University (2021)
+- **BSc. Information Technology** — Karatina University (2025), Second Class Upper Division  
+- **Diploma in IT (Networking)** — Karatina University (2021)  
 
 ### Certifications
 
-- Cisco — Cybersecurity Essentials
-- Google Workspace — Administrator
-- iMerit — AI Data Annotation
+- Cisco — Cybersecurity Essentials  
+- Google Workspace — Administrator  
+- iMerit — AI Data Annotation  
 
 ---
 
 ### Outside the Code
 
-- Interested in how small businesses in Kenya adopt digital tools, and what actually stops them
-- Follow KRA's eTIMS policy changes closely — compliance is a moving target
-- Learn by building — most of what I know came from shipping things that broke
+- Interested in how small businesses in Kenya adopt digital tools, and what actually stops them  
+- Follow KRA's eTIMS policy changes closely — compliance is a moving target  
+- Learn by building — most of what I know came from shipping things that broke  
 
 ---
 
@@ -160,13 +164,14 @@ Online learning platforms, student data systems, comms infrastructure.
 
 Best way is email or WhatsApp. I reply to both.
 
-- **Email:** [timothykaranja2002@gmail.com](mailto:timothykaranja2002@gmail.com)
-- **WhatsApp:** [+254 740940395](https://wa.me/254740940395)
-- **LinkedIn:** [timothy-karanja-65737b277](https://linkedin.com/in/timothy-karanja-65737b277)
+- **Email:** [timblax0@gmail.com](mailto:timblax0@gmail.com) · [timothykaranja2002@gmail.com](mailto:timothykaranja2002@gmail.com)  
+- **WhatsApp:** [+254 740 940 395](https://wa.me/254740940395)  
+- **LinkedIn:** [timothy-karanja-65737b277](https://linkedin.com/in/timothy-karanja-65737b277)  
+- **GitHub:** [TeemoreG](https://github.com/TeemoreG)  
 
 ---
 
-### GitHub
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeemoreG&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" width="48%" />
