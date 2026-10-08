@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:timblax0@gmail.com"><img src="https://img.shields.io/badge/email-timblax0@gmail.com-C0392B?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:timblax0@gmail.com"><img src="https://img.shields.io/badge/email-timbothykaranja2002@gmail.com-C0392B?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/timothy-karanja-65737b277"><img src="https://img.shields.io/badge/linkedin-timothy--karanja-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/254740940395"><img src="https://img.shields.io/badge/whatsapp-%2B254740940395-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/TeemoreG"><img src="https://img.shields.io/badge/github-TeemoreG-181717?style=flat-square&logo=github&logoColor=white" /></a>
