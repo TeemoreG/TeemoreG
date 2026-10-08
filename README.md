@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:timblax0@gmail.com"><img src="https://img.shields.io/badge/email-timbothykaranja2002@gmail.com-C0392B?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:timblax0@gmail.com"><img src="https://img.shields.io/badge/email-timblax0@gmail.com-C0392B?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/timothy-karanja-65737b277"><img src="https://img.shields.io/badge/linkedin-timothy--karanja-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/254740940395"><img src="https://img.shields.io/badge/whatsapp-%2B254740940395-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/TeemoreG"><img src="https://img.shields.io/badge/github-TeemoreG-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -58,13 +58,26 @@ Git · VS Code · Cloudflare · WordPress · Vite
 | ------------------------- | ------------------------------------------------------------ |
 | **[Sirleaf Tours & Safaris](https://sirleaftours.com)** | Full tours & travel agency site — safaris, coastal trips, airport transfers, package booking & enquiry system (Laravel + Tailwind + Alpine.js) |
 | **Decent Caterers** | Professional catering services website — menus, event packages, enquiry & booking flows |
+| **[Evopay Car Wash POS](https://carwash.evopay.africa)** | Car wash checkout with M-Pesa QR, STK Push, thermal receipts |
+| **[LiquorBelle](https://liquorbelle.co.ke)** | Alcohol delivery platform with M-Pesa integration |
+| **[Royal Hope Healthcare](https://royalhopecare.co.ke)** | Home-based healthcare coordination platform |
+| **[Dr. Gichina Mukuria](https://drgichinamukuria.com)** | Professional medical practice website |
+| **[Prime Consultancy](https://primeconsultancy.co.ke)** | Business & consultancy services website |
 | **Evopay VSCU Cashier** | KRA eTIMS compliant POS with fiscal receipt signing |
-| **Evopay Car Wash POS** | Car wash checkout with M-Pesa QR, STK Push, thermal receipts |
-| **LiquorBelle** | Alcohol delivery platform with M-Pesa integration |
 | **Salaton Pharmacy** | Inventory and sales management for pharmacy |
-| **Royal Hope Healthcare** | Home-based healthcare coordination platform |
 | **JM Grill Point** | Restaurant site with online ordering |
 | **Nuru Sweet Bitez** | Online bakery and confectionery store |
+
+---
+
+### Live Websites
+
+- [Sirleaf Tours & Safaris](https://sirleaftours.com)
+- [Evopay Car Wash](https://carwash.evopay.africa)
+- [LiquorBelle](https://liquorbelle.co.ke)
+- [Royal Hope Healthcare](https://royalhopecare.co.ke)
+- [Dr. Gichina Mukuria](https://drgichinamukuria.com)
+- [Prime Consultancy](https://primeconsultancy.co.ke)
 
 ---
 
@@ -90,7 +103,7 @@ Online learning platforms, student data systems, comms infrastructure.
 
 - **KRA eTIMS integrations** — building POS systems that sign every sale in real time through the KRA VSCU JAR. Handling offline queues, fiscal receipt generation, and the strict field rules KRA enforces.
 - **Payment gateways** — M-Pesa Daraja integrations across two live products. Dynamic QR, STK Push, C2B callbacks, callback validation.
-- **Client websites** — Sirleaf Tours & Safaris (live demo) and Decent Caterers — clean, conversion-focused sites with booking/enquiry systems.
+- **Client websites** — Sirleaf Tours & Safaris, Decent Caterers, and other conversion-focused sites with booking/enquiry systems.
 - **Multi-tenant business tools** — small systems that let one codebase serve many shops with isolated data and shared config.
 - **Automation flows** — wiring business processes through n8n and Make — invoice generation, customer notifications, reporting.
 
